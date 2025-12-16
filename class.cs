@@ -8,5 +8,6 @@ namespace management_delegate
 {
     internal class @class
     {
+
     }
 }
