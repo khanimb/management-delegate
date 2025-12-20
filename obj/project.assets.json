@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xanim\\Documents\\management delegate\\management delegate.csproj",
+      "projectUniqueName": "C:\\Users\\Xanim\\Desktop\\management delegate\\management delegate.csproj",
       "projectName": "management delegate",
-      "projectPath": "C:\\Users\\Xanim\\Documents\\management delegate\\management delegate.csproj",
+      "projectPath": "C:\\Users\\Xanim\\Desktop\\management delegate\\management delegate.csproj",
       "packagesPath": "C:\\Users\\Xanim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xanim\\Documents\\management delegate\\obj\\",
+      "outputPath": "C:\\Users\\Xanim\\Desktop\\management delegate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
